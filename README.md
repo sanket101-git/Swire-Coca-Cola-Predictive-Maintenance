@@ -121,3 +121,6 @@ Developed a **Streamlit Web App** for interactive visualization:
 
 ---
 
+### 📊 Interactive Dashboard
+
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJjNWZmYTAtMGVhNy00NTE5LTk0YjYtY2Q3ZDQwYTA0ZDlhIiwidCI6IjUyMTdlMGU3LTUzOWQtNDU2My1iMWJmLTdjNmRjZjA3NGY5MSIsImMiOjZ9)

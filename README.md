@@ -12,7 +12,7 @@ Unplanned machine downtimes in Swire Coca-Cola's six production plants result in
 
 - **Production inefficiencies**
 - **Financial losses** due to disrupted workflows
-- **Ineffective inventory management** for spare parts
+- **Resource Strain:** Reactive maintenance substantially strains resources, diverting time and effort from strategic, long-term objectives.
 
 ### 🎯 Goal:
 Enhance maintenance strategies by predicting failures and recommending timely maintenance actions to optimize plant operations.
@@ -78,11 +78,11 @@ Developed a **Streamlit Web App** for interactive visualization:
 
 ---
 
-## 👥 Team Contributions
+## 👥 My Contributions
 
 - **EDA & Data Cleaning:** Maintenance trends analysis and data preprocessing.
 - **Feature Engineering:** Derived informative features for modeling.
-- **Model Development:** Built time series and survival analysis models.
+- **Model Development:** Built time series.
 - **Web Application:** Developed an interactive Streamlit app for visual insights and forecasting.
 
 ---
@@ -97,6 +97,10 @@ Developed a **Streamlit Web App** for interactive visualization:
 
 3. **Deployment:**
    - Integrating models into a user-friendly web interface.
+  
+4. **Feature Selection and Engineering:**
+   - Managing a large dataset with numerous interdependent features presented difficulties in identifying the most relevant predictors for maintenance and failure      risk.
+   - Extensive iterations were required to optimize the **Failure Risk Score** and ensure meaningful insights.
 
 ---
 
